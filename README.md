@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="BeTheHero" title="BeTheHero" src="./frontend/src/assets/logo.svg" width="300px" />
+  <img alt="FastFeet" title="FastFeet" src="assets/logo.png" width="300px" />
 </h1>
 
 <h3 align="center">
@@ -28,28 +28,26 @@
 
 ---
 
-<h1>Imagens</h1>
+<h1>Images</h1>
 
 ---
 
 <h1 align="center">
-  <img alt="BeTheHero Mobile1" title="BeTheHero Mobile1" src="./assets/mobile1.PNG" width="200" />
-  <img alt="BeTheHero Mobile2" title="BeTheHero Mobile2" src="./assets/mobile2.PNG" width="200" />
-</h1>
-
-<h1 align="center">
-  <img alt="BeTheHero Web2" title="BeTheHero Web2" src="./assets/web2.png" width="300" />
-  <img alt="BeTheHero Web3" title="BeTheHero Web3" src="./assets/web3.png" width="300" />
-
-</h1>
-
-<h1 align="center">
-  <img alt="BeTheHero Web1" title="BeTheHero Web1" src="./assets/web1.png" width="600" />
+  <img alt="Mobile1" title="Mobile1" src="assets/app1.png" width="300" />
+  <img alt="Mobile2" title="Mobile2" src="assets/app2.png" width="300"  />
 </h1>
 
 ---
 
-## Autor
+<h1 align="center">
+  <img alt="Web1" title="Web1" src="./assets/web1.png" width="600" />
+  <img alt="Web2" title="Web2" src="./assets/web2.png" width="600" />
+
+</h1>
+
+---
+
+## Author
 
 <table>
   <tr>
