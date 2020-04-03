@@ -19,29 +19,29 @@
 
 ---
 
-## :truck: Project
+# :truck: Project
 
-<h1>
+<h3>
   <a href="https://github.com/tavareshenrique/fastfeet-api" style="text-decoration: none;" >
-  💾 FastFeet API(NodeJS) ✔️
+  ☁️ FastFeet API(NodeJS) ✔️
   </a>
-</h1>
+</h3>
 
-<h1>
+<h3>
    <a href="https://github.com/tavareshenrique/fastfeet-web" style="text-decoration: none;">
   ⚛️ FastFeet Web(ReactJS) ✔️
   </a>
-</h1>
+</h3>
 
-<h1>
+<h3>
   <a href="https://github.com/tavareshenrique/fastfeet-app" style="text-decoration: none;">
   📱 FastFeet App Mobile(React Native) ✔️
   </a>
-</h1>
+</h3>
 
 ---
 
-## :camera: Images
+# :camera: Images
 
 <h1 align="center">
   <img alt="Mobile1" title="Mobile1" src="assets/app1.png" width="300" />
@@ -55,7 +55,7 @@
 
 ---
 
-## :computer: Author
+# :computer: Author
 
 <table>
   <tr>
