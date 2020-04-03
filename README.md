@@ -68,7 +68,7 @@
         </sub>
        </a>
        <br />
-       <a href="https://github.com/tavareshenrique/fastfeet/commits?author=tavareshenrique" title="Code">@tavareshenrique</a>
+       <a href="https://www.linkedin.com/in/tavareshenrique/" title="Linkedin">@tavareshenrique</a>
     </td>
   </tr>
 </table>
