@@ -13,9 +13,9 @@
   <a href="#computer-author">💻 Author</a>
 </p>
 
-<h3 align="center">
+<p align="center">
   FastFeet is an application for a fictional transportation company during Rocketseat's Bootcamp. This project is part of the Bootcamp certification of Rocketseat 10.0. Its API was developed using NodeJS with Express, its web interface was developed using ReactJS and its mobile application was developed using React Native.
-</h3>
+</p>
 
 ---
 
