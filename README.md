@@ -51,7 +51,6 @@
 <h1 align="center">
   <img alt="Web1" title="Web1" src="./assets/web1.png" width="600" />
   <img alt="Web2" title="Web2" src="./assets/web2.png" width="600" />
-
 </h1>
 
 ---
