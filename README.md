@@ -2,9 +2,24 @@
   <img alt="FastFeet" title="FastFeet" src="assets/logo.png" width="300px" />
 </h1>
 
+<p align="center">
+  <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/tavareshenrique/fastfeet?color=7D40E7">
+  <img alt="Made by Stefano" src="https://img.shields.io/badge/made%20by-Henrique Tavares-%20?color=7D40E7">
+</p>
+
+<p align="center">
+  <a href="#truck-project">💻 Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#camera-images">📷 Images</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-author">💻 Author</a>
+</p>
+
 <h3 align="center">
   FastFeet is an application for a fictional transportation company during Rocketseat's Bootcamp. This project is part of the Bootcamp certification of Rocketseat 10.0. Its API was developed using NodeJS with Express, its web interface was developed using ReactJS and its mobile application was developed using React Native.
 </h3>
+
+---
+
+## :truck: Project
 
 ---
 
@@ -28,7 +43,7 @@
 
 ---
 
-<h1>Images</h1>
+## :camera: Images
 
 ---
 
@@ -47,7 +62,7 @@
 
 ---
 
-## Author
+## :computer: Author
 
 <table>
   <tr>
