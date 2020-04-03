@@ -4,7 +4,7 @@
 
 <p align="center">
   <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/tavareshenrique/fastfeet?color=7D40E7">
-  <img alt="Made by Stefano" src="https://img.shields.io/badge/made%20by-Henrique Tavares-%20?color=7D40E7">
+  <img alt="Made by Henrique Tavares" src="https://img.shields.io/badge/made%20by-Henrique Tavares-%20?color=7D40E7">
 </p>
 
 <p align="center">
