@@ -21,8 +21,6 @@
 
 ## :truck: Project
 
----
-
 <h1>
   <a href="https://github.com/tavareshenrique/fastfeet-api" style="text-decoration: none;" >
   💾 FastFeet API(NodeJS) ✔️
@@ -45,14 +43,10 @@
 
 ## :camera: Images
 
----
-
 <h1 align="center">
   <img alt="Mobile1" title="Mobile1" src="assets/app1.png" width="300" />
   <img alt="Mobile2" title="Mobile2" src="assets/app2.png" width="300"  />
 </h1>
-
----
 
 <h1 align="center">
   <img alt="Web1" title="Web1" src="./assets/web1.png" width="600" />
